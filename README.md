@@ -22,8 +22,7 @@ identify/predict chaos in dynamical systems as well as identifying dynamical sys
 ## Deep Learning for Dynamical Systems <a name="DLDS"></a>
 You can check out a short presentation on my work with the ACT on deep learning for dynamical systems [here](https://docs.google.com/presentation/d/1AdP2ygA-rG8kBoF32PH7BgklXvAzkmm81PfqFgPekKw/edit?usp=sharing), or just check out these cool visualizations.
 
-<table width=1000px>![skiing_on_my_back](https://user-images.githubusercontent.com/24722905/189741598-d8823df8-789d-42d4-bde6-90c90e747cfb.jpg)
-
+<table width=1000px>
 <tr>
 <th> Figure 1: Real-time construction of Poincare maps for the <a href="https://en.wikipedia.org/wiki/Swinging_Atwood%27s_machine">Swinging Atwood's Machine (SAM)</a> in a stable (red) and chaotic (green) configuration. On the left is the system configuration, on the right is the Poincare-Map representation of the system.</th>
 <th> Figure 2: Sampled Poincare maps for the Swinging Atwood's Machine (colours correspond to trajectories from different initial configurations) for various values of the system mass parameter μ.</th>
