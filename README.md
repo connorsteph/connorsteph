@@ -22,19 +22,18 @@ identify/predict chaos in dynamical systems as well as identifying dynamical sys
 ## Deep Learning for Dynamical Systems <a name="DLDS"></a>
 You can check out a short presentation on my work with the ACT on deep learning for dynamical systems [here](https://docs.google.com/presentation/d/1AdP2ygA-rG8kBoF32PH7BgklXvAzkmm81PfqFgPekKw/edit?usp=sharing), or just check out these cool visualizations.
 
-<table width=1000px>
+<table width=90%>
 <tr>
 <th> Figure 1: Real-time construction of Poincare maps for the <a href="https://en.wikipedia.org/wiki/Swinging_Atwood%27s_machine">Swinging Atwood's Machine (SAM)</a> in a stable (red) and chaotic (green) configuration. On the left is the system configuration, on the right is the Poincare-Map representation of the system.</th>
 <th> Figure 2: Sampled Poincare maps for the Swinging Atwood's Machine (colours correspond to trajectories from different initial configurations) for various values of the system mass parameter μ.</th>
 </tr>
 <tr>
-<td width="500px">
+<td width=50%>
 <Image src="https://user-images.githubusercontent.com/24722905/189714592-308d97c2-d428-454f-a52a-eb120572404a.gif" width="500" height="238px" /></td>
-<td width="500px" align="middle">
+<td width=50% align="middle">
 <Image src="https://user-images.githubusercontent.com/24722905/189714680-f54d6c14-bdc2-428c-a57b-da7816f28378.png" width="400px" height="400px" /></td>
 </tr>
-</table>![skiing_on_my_back](https://user-images.githubusercontent.com/24722905/189741572-8c76a16f-a410-4ead-815e-aa758654cd59.jpg)
-
+</table>
 
 <table width=500px>
 <tr>
