@@ -4,7 +4,7 @@
 
 **BSc Honors Physics, University of Alberta** &mdash; Sept. 2014 - Apr. 2018
 
-<a href="https://github.com/connorsteph/connorsteph/files/9551407/stephens_resume_flattened.pdf">Resume</a>
+<a href="https://github.com/connorsteph/connorsteph/files/9552451/stephens_resume_flattened.pdf">Resume</a>
 <br>
 <a href="https://github.com/connorsteph/connorsteph/files/9551407/stephens_resume_flattened.pdf">CV</a>
 <br>
