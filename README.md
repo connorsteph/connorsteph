@@ -20,12 +20,12 @@ to test theoretical models of superconductivity before making the short hop over
 #### [Task-Focused Robotic Teleoperation Using Computer Vision](#UVSTO)
 
 ## Deep Learning for Dynamical Systems <a name="DLDS"></a>
-You can check out a short presentation on my work with the ACT on deep learning for dynamical systems [here](https://docs.google.com/presentation/d/1AdP2ygA-rG8kBoF32PH7BgklXvAzkmm81PfqFgPekKw/edit?usp=sharing), or just check out these cool figures.
+You can check out a short presentation on my work with the ACT on deep learning for dynamical systems [here](https://docs.google.com/presentation/d/1AdP2ygA-rG8kBoF32PH7BgklXvAzkmm81PfqFgPekKw/edit?usp=sharing), or just check out these cool figures below.
 
 <table width=90%>
 <tr>
-<th> Figure 1: Real-time construction of Poincare maps for the <a href="https://en.wikipedia.org/wiki/Swinging_Atwood%27s_machine">Swinging Atwood's Machine (SAM)</a> in a stable (red) and chaotic (green) configuration. On the left is the system configuration, on the right is the Poincare-Map representation of the system.</th>
-<th> Figure 2: Sampled Poincare maps for the Swinging Atwood's Machine (colours correspond to trajectories from different initial configurations) for various values of the system mass parameter μ.</th>
+  <th align="left"> Figure 1: Real-time construction of <a href="https://en.wikipedia.org/wiki/Poincar%C3%A9_map">Poincare maps</a> for the <a href="https://en.wikipedia.org/wiki/Swinging_Atwood%27s_machine">Swinging Atwood's Machine (SAM)</a> in a stable (red) and chaotic (green) configuration. On the left is the system configuration, on the right is the Poincare-Map representation of the system.</th>
+<th align="left"> Figure 2: Sampled Poincare maps for the Swinging Atwood's Machine (colours correspond to trajectories from different initial configurations) for various values of the system's mass-ratio parameter, μ.</th>
 </tr>
 <tr>
 <td width=50%>
@@ -48,8 +48,8 @@ You can check out a short presentation on my work with the ACT on deep learning 
 
 <table width=90%>
 <tr>
-<th> Figure 4: Pixel-wise classification of the chaoticity of trajectories using a deep learning model with a semantic segmentation approach. Note the blob-like artifacts in the prediction which imply multiple classifications for the same trajectory.</th>
-<th> Figure 5: Trajectory chaos classifications obtained from a physics-based deep learning model, making classifications at the trajectory level.</th>
+<th align="left"> Figure 4: Pixel-wise classification of the chaoticity of trajectories using a deep learning model with a semantic segmentation approach. Left: ground truth, right: predictions. Note the blob-like artifacts in the prediction (right) which imply multiple classifications for the same trajectory.</th>
+<th align="left"> Figure 5: Trajectory chaos classifications obtained from a physics-based deep learning model, making classifications at the trajectory level.</th>
 </tr>
 <tr>
 <td width=50%>
@@ -58,3 +58,12 @@ You can check out a short presentation on my work with the ACT on deep learning 
 <Image src="https://user-images.githubusercontent.com/24722905/189750494-3c81dfb9-df0d-4c5e-9897-942c32cb349b.png" max-width="400px" /></td>
 </tr>
 </table>
+
+
+
+## Task-Focused Robotic Teleoperation Using Computer Vision<a name="UVSTO"></a>
+[Paper](https://github.com/connorsteph/connorsteph/files/9551660/uvs_teleoperation.pdf)
+
+In the summer of 2018 I led the development of a new method for joystick operation of a robotic arm for reaching and grasping tasks. A general purpose robotic arm typically has around seven degrees of freedom (DOF), corresponding to the possible configuration for all of the joints, e.g. the elbow wrist and shoulder joints. In many applications of robotic arms to assistive living users command motion of the arm using a joystick control. Mapping joystick controls to full specification of the arm's position requires switching between control modes e.g. controlling either the position of the end effector or its orientiation. 
+
+
