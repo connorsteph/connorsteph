@@ -29,9 +29,9 @@ You can check out a short presentation on my work with the ACT on deep learning 
 </tr>
 <tr>
 <td width=50%>
-<Image src="https://user-images.githubusercontent.com/24722905/189714592-308d97c2-d428-454f-a52a-eb120572404a.gif" width="500" height="238px" /></td>
+<Image src="https://user-images.githubusercontent.com/24722905/189714592-308d97c2-d428-454f-a52a-eb120572404a.gif" max_width="500" /></td>
 <td width=50% align="middle">
-<Image src="https://user-images.githubusercontent.com/24722905/189714680-f54d6c14-bdc2-428c-a57b-da7816f28378.png" width="400px" height="400px" /></td>
+<Image src="https://user-images.githubusercontent.com/24722905/189714680-f54d6c14-bdc2-428c-a57b-da7816f28378.png" max_width="400px" /></td>
 </tr>
 </table>
 
