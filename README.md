@@ -62,8 +62,7 @@ You can check out a short presentation on my work with the ACT on deep learning 
 <Image src="https://user-images.githubusercontent.com/24722905/189750494-3c81dfb9-df0d-4c5e-9897-942c32cb349b.png" max-width="400px" /></td>
 </tr>
 </table>
-
-
+<br><br><br><br>
 
 ## Task-Focused Robotic Teleoperation Using Computer Vision<a name="UVSTO"></a>
 [Paper](https://github.com/connorsteph/connorsteph/files/9551660/uvs_teleoperation.pdf) (unpublished)
@@ -87,6 +86,16 @@ Our proposed solution consisted of a scheme in which a user highlights the objec
 In the grasping mode we imagine that there is a ball which surrounds the object we wish to grasp, and we design our control scheme so that the robot end-effector is always on the surface of the ball, palm pointed to the object. The user can shrink the ball, or move the arm to a different position on the ball. The video below illustrates the idea. Imagine that there is a ball with the object at its center. 
 <video src="https://user-images.githubusercontent.com/24722905/189757526-a76145e9-eb21-444f-abe9-8716ed33714f.mp4" width="320" height="240" />
   
-  
+<br><br><br><br><br><br><br><br>
 #### Using Quantum Chemistry to Estimate Properties of Exotic Molecules  <a name="PsH"></a>
-
+  <a href="https://arxiv.org/abs/2208.07907"> Positronium hydride decay into proton, electron, and one or zero photons</a> (submitted to Phys. Rev. Letters A, &ndash; under review)
+  
+In the summer of 2016 I worked with another student under the supervision of Prof. Andrzej Czarnecki to calculate the properties of <a href="https://en.wikipedia.org/wiki/Positronium_hydride"> Positronium Hydride </a> (PsH), an exotic molecule which is believed to have been observed in experiments in the 1990s [[1](#1), [2](#2)], however due to its low (theorized) binding energy this molecule has been challening to study experimentally. In order to estimate the properties of this molecule we made use of numerical optimization along with the <a href="https://en.wikipedia.org/wiki/Variational_method_(quantum_mechanics)"> variational method </a> the approximate the ground state wave function for PsH. In lay man's terms (or at least a lay man with an undergraduate course in quantum mechanics under their belt) , the variational method states that the true ground state wavefunction of a system is the wavefunction which minimizes
+  
+  
+#### References  
+[1] R. Pareja, R. M. de la Cruz, M. A. Pedrosa, R. Gonz ́alez, and Y. Chen, Positronium hydride in hydrogen-laden
+thermochemically reduced MgO single crystals, Phys. Rev. B 41, 6220–6226 (1990).<a name="1"></a>
+  
+[2] D. M. Schrader, F. M. Jacobsen, N.-P. Frandsen, and U. Mikkelsen, Formation of positronium hydride, Phys.
+Rev. Lett. 69, 57–60 (1992)<a name="2"></a>
