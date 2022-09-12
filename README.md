@@ -11,7 +11,7 @@
 <p align="justify">
 Welcome! I'm a master's student at the University of Alberta specializing in statistical machine learning (defending Halloween 2022🧛).
   
-My background is an undergraduate degree in physics in which conducted research in topics such as **ab initio quantum chemistry** and using computation
+My background is an undergraduate degree in physics in which I conducted research in topics such as **ab initio quantum chemistry** and using computation
 to test theoretical models of superconductivity before making the short hop over to computing science after my degree. I've conducted research in assistive robotics and had the incredibly cool experience of implementing a new control scheme on a robotic arm. The focus of my master's research has been studying algorithms and theory for optimal sequential decision making, specifically for problems that fit under the description of <b>pure exploration in multi-armed bandits</b>. Recently I've come full circle and put my physics background to use, working as a research intern at the European Space Agency (ESA) Advanced Concepts Team (ACT), developing **deep learning** models to identify/predict chaos in dynamical systems as well as identifying dynamical systems from sparse data.
 </p>
 <br>
