@@ -24,7 +24,7 @@ Here are some things that I've worked on:
 <br><br><br><br><br><br>
 
 ## Pure Exploration Problems in Bandits <a name="MAB_PE"></a>
-Paper under review -- stay tuned
+Paper under double-blind review 
 ### Motivation
 Imagine that your friend has just started a small online clothing store which sells elaborately embroidered sweaters. Setting up production for a new sweater design is a time and labour intensive process, involving designing the new embroidery pattern, setting up the sewing equipment to stitch the pattern, and obtaining the material required for the design. Due to the small-scale nature of their business and the limited amount of sweaters that they can produce each day they plan to maximize their return on initial production set-up time and cost by making a large batch of one design at a time.
 
@@ -41,7 +41,7 @@ This example has several characteristics which are archetypical of pure explorat
 
 ---
 
-Pure exploration research is focused on developing and analysing algorithms which select which data to collect along with which option to recommend in order to return the best selection possible. There are many problem settings within this field (such as minimizing the samples required for a learner to be able guarantee a decision of a prescribed quality, or optimizing the quality of a decision given a fixed budget) as well as many measures of the quality of the selection returned. 
+Pure exploration research is focused on developing and analysing algorithms which select which data to collect along with which option to recommend in order to return the best selection possible. There are many problem settings within this field (such as minimizing the samples required for a learner to be able guarantee a decision of a prescribed quality, or optimizing the quality of a decision given a fixed budget) as well as many measures of the quality of the selection returned. Alas all problem settings and objectives are not made equal in the eyes of a statistician running an experiment in a given real world situation. My thesis goes over state of the art results in many of the pure exploration settings, discussing their strengths and limitations. It also discusses work currently under double-blind review, so stay tuned.
 
 <br><br><br><br><br><br><br><br>
 
