@@ -3,16 +3,16 @@
 **MSc Computing Science, University of Alberta** &mdash; Sept. 2019 - Oct. 2022 (Expected)
 
 **BSc Honors Physics, University of Alberta** &mdash; Sept. 2014 - Apr. 2018
-<br><br>
+
+<a href="https://github.com/connorsteph/connorsteph/files/9551407/stephens_resume_flattened.pdf">Resume</a>
+<br>
+<a href="https://github.com/connorsteph/connorsteph/files/9551407/stephens_resume_flattened.pdf">CV</a>
+<br>
 <p align="justify">
-Welcome! I'm a master's student at the University of Alberta specializing in statistical machine learning (defending Halloween 2022🎃).
+Welcome! I'm a master's student at the University of Alberta specializing in statistical machine learning (defending Halloween 2022🧛).
   
-My background is an undergraduate degree in physics, researching topics such as **ab initio quantum chemistry** and using computation
-to test theoretical models of superconductivity before making the short hop over to computing science. I've conducted research in assistive robotics and had the 
-incredibly cool experience of implementing a new control scheme on a robotic arm. The focus of my research in graduate school has been
-studying optimal sequential decision making, specifically problems that fit under the description of <b>pure exploration in multi-armed bandits</b>. Recently
-I've come full circle, working as a research intern at the European Space Agency (ESA) Advanced Concepts Team(ACT), developing **deep learning** models to
-identify/predict chaos in dynamical systems as well as identifying dynamical systems from sparse data.
+My background is an undergraduate degree in physics where conducted research in topics such as **ab initio quantum chemistry** and using computation
+to test theoretical models of superconductivity before making the short hop over to computing science after my degree. I've conducted research in assistive robotics and had the incredibly cool experience of implementing a new control scheme on a robotic arm. The focus of my master's research has been studying algorithms and theory for optimal sequential decision making, specifically for problems that fit under the description of <b>pure exploration in multi-armed bandits</b>. Recently I've come full circle and put my physics background to use, working as a research intern at the European Space Agency (ESA) Advanced Concepts Team(ACT), developing **deep learning** models to identify/predict chaos in dynamical systems as well as identifying dynamical systems from sparse data.
 </p>
 
 #### [Simple Regret Minimization in Multi-Armed Bandits](#MAB_SR)
@@ -20,7 +20,7 @@ identify/predict chaos in dynamical systems as well as identifying dynamical sys
 #### [Task-Focused Robotic Teleoperation Using Computer Vision](#UVSTO)
 
 ## Deep Learning for Dynamical Systems <a name="DLDS"></a>
-You can check out a short presentation on my work with the ACT on deep learning for dynamical systems [here](https://docs.google.com/presentation/d/1AdP2ygA-rG8kBoF32PH7BgklXvAzkmm81PfqFgPekKw/edit?usp=sharing), or just check out these cool visualizations.
+You can check out a short presentation on my work with the ACT on deep learning for dynamical systems [here](https://docs.google.com/presentation/d/1AdP2ygA-rG8kBoF32PH7BgklXvAzkmm81PfqFgPekKw/edit?usp=sharing), or just check out these cool figures.
 
 <table width=90%>
 <tr>
@@ -29,19 +29,32 @@ You can check out a short presentation on my work with the ACT on deep learning 
 </tr>
 <tr>
 <td width=50%>
-<Image src="https://user-images.githubusercontent.com/24722905/189714592-308d97c2-d428-454f-a52a-eb120572404a.gif" max_width="500" /></td>
+<Image src="https://user-images.githubusercontent.com/24722905/189714592-308d97c2-d428-454f-a52a-eb120572404a.gif" max-width="500px" /></td>
 <td width=50% align="middle">
-<Image src="https://user-images.githubusercontent.com/24722905/189714680-f54d6c14-bdc2-428c-a57b-da7816f28378.png" max_width="400px" /></td>
+<Image src="https://user-images.githubusercontent.com/24722905/189714680-f54d6c14-bdc2-428c-a57b-da7816f28378.png" max-width="400px" /></td>
 </tr>
 </table>
 
-<table width=500px>
+<table width=50%>
 <tr>
-<th>Figure 3: An example input-output for a deep learning model I developed which estimates the mass ratio parameter of the SAM system which produced the Poincare map (left) input to the network. On the right is the parameter estimate, along with a high-quality Poincare map corresponding to the estimated parameter. </th>
+<th align="left">Figure 3: An example input-output for a deep learning model I developed which estimates the mass ratio parameter of the SAM system which produced the Poincare map (left) input to the network. On the right is the parameter estimate, along with a higher quality Poincare map corresponding to the estimated parameter. </th>
 </tr>
 <tr>
-<td width="500px">
-<Image src="https://user-images.githubusercontent.com/24722905/189736428-af463574-c211-495a-80a5-b8302fbd1ac9.png" width="500px" height="250px" />
+<td width="50%">
+<Image src="https://user-images.githubusercontent.com/24722905/189736428-af463574-c211-495a-80a5-b8302fbd1ac9.png" max-width="500px" />
 </td>
+</tr>
+</table>
+
+<table width=90%>
+<tr>
+<th> Figure 4: Pixel-wise classification of the chaoticity of trajectories using a deep learning model with a semantic segmentation approach. Note the blob-like artifacts in the prediction which imply multiple classifications for the same trajectory.</th>
+<th> Figure 5: Trajectory chaos classifications obtained from a physics-based deep learning model, making classifications at the trajectory level.</th>
+</tr>
+<tr>
+<td width=50%>
+<Image src="https://user-images.githubusercontent.com/24722905/189750499-f61a6b5d-9df4-42bc-8817-4e57d4de1631.png" max-width="500px" /></td>
+<td width=50% align="middle">
+<Image src="https://user-images.githubusercontent.com/24722905/189750494-3c81dfb9-df0d-4c5e-9897-942c32cb349b.png" max-width="400px" /></td>
 </tr>
 </table>
