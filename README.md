@@ -4,9 +4,9 @@
 
 **BSc Honors Physics, University of Alberta** &mdash; Sept. 2014 - Apr. 2018
 
-<a href="https://github.com/connorsteph/connorsteph/files/9552451/stephens_resume_flattened.pdf">Resume</a>
+<a href="https://github.com/connorsteph/connorsteph/files/9559686/connor_stephens_resume_flattened.pdf">Resume</a>
 <br>
-<a href="https://github.com/connorsteph/connorsteph/files/9553709/stephens_CV.pdf">CV</a>
+<a href="https://github.com/connorsteph/connorsteph/files/9559691/connor_stephens_CV.pdf">CV</a>
 <br>
 <p align="justify">
 Welcome! I'm a master's student at the University of Alberta specializing in statistical machine learning (defending Halloween 2022🧛).
