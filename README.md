@@ -13,6 +13,8 @@ Welcome! I'm a master's student at the University of Alberta specializing in sta
 
 Prior to my master's program I completed an undergraduate degree in physics in which I conducted research in topics such as **ab initio quantum chemistry** and using computational methods
 to test theoretical models of superconductivity before making the short hop over to computing science after my degree. I've had the opportunity to perform research in assistive robotics and had the incredibly cool experience of implementing a new control scheme on a robotic arm. The focus of my master's research has been studying algorithms and theory for optimal sequential decision making, specifically for problems that fit under the description of <b>pure exploration in multi-armed bandits</b>. Recently I've come full circle and put my physics background to use, working as a research intern at the European Space Agency (ESA) Advanced Concepts Team (ACT), developing **deep learning** models to identify/predict chaos in dynamical systems as well as identifying dynamical systems from sparse data.
+  
+Outside of research you'll usually find me on my road bike, jealously regarding other people's dogs or pretentiously watching films (not to be confused with watching pretentious films).
 </p>
 <br>
 Here are some things that I've worked on:
