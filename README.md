@@ -48,7 +48,7 @@ Pure exploration research is focused on developing and analysing algorithms whic
 <br><br><br><br><br><br><br><br>
 
 ## Deep Learning for Dynamical Systems <a name="DLDS"></a>
-You can check out a short presentation on my work with the ACT on deep learning for dynamical systems [here](https://docs.google.com/presentation/d/1AdP2ygA-rG8kBoF32PH7BgklXvAzkmm81PfqFgPekKw/edit?usp=sharing), or just check out these cool figures below.
+This paper is in progress! You can check out a short presentation on my work (and timeless sense of humour) with the ACT on deep learning for dynamical systems [here](https://docs.google.com/presentation/d/1AdP2ygA-rG8kBoF32PH7BgklXvAzkmm81PfqFgPekKw/edit?usp=sharing), or just check out these cool figures below.
 
 <table width=90%>
 <tr>
