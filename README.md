@@ -19,14 +19,14 @@ Outside of research you'll usually find me on my road bike, jealously regarding 
 <br>
 Here are some things that I've worked on:
 
-#### [Pure Exploration Problems in Bandits](#MAB_PE)
+#### [Pure Exploration Problems in Multi-Armed Bandits](#MAB_PE)
 #### [Deep Learning for Dynamical Systems](#DLDS)
 #### [Task-Focused Robotic Teleoperation Using Computer Vision](#UVSTO)
 #### [Using Quantum Chemistry to Estimate Properties of Exotic Molecules](#PsH)
 <br><br><br><br><br><br>
 
-## Pure Exploration Problems in Bandits <a name="MAB_PE"></a>
-Paper under double-blind review 
+## Pure Exploration Problems in Multi-Armed Bandits <a name="MAB_PE"></a>
+Paper in preparation for ICML 2023
 ### Motivation
 Imagine that your friend has just started a small online clothing store which sells elaborately embroidered sweaters. Setting up production for a new sweater design is a time and labour intensive process, involving designing the new embroidery pattern, setting up the sewing equipment to stitch the pattern, and obtaining the material required for the design. Due to the small-scale nature of their business and the limited amount of sweaters that they can produce each day they plan to maximize their return on initial production set-up time and cost by making a large batch of one design at a time.
 
