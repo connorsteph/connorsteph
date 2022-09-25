@@ -26,7 +26,7 @@ Here are some things that I've worked on:
 <br><br><br><br><br><br>
 
 ## Pure Exploration Problems in Multi-Armed Bandits <a name="MAB_PE"></a>
-Paper in preparation for ICML 2023
+Preprint (https://kwangsungjun.github.io/data-public/2022-zhao-revisiting.pdf)
 ### Motivation
 Imagine that your friend has just started a small online clothing store which sells elaborately embroidered sweaters. Setting up production for a new sweater design is a time and labour intensive process, involving designing the new embroidery pattern, setting up the sewing equipment to stitch the pattern, and obtaining the material required for the design. Due to the small-scale nature of their business and the limited amount of sweaters that they can produce each day they plan to maximize their return on initial production set-up time and cost by making a large batch of one design at a time.
 
