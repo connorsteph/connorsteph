@@ -4,14 +4,14 @@
 
 **BSc Honors Physics, University of Alberta** &mdash; Sept. 2014 - Apr. 2018
 
-<a href="https://github.com/connorsteph/connorsteph/files/9559686/connor_stephens_resume_flattened.pdf">Resume</a>
+<a href="https://github.com/connorsteph/connorsteph/files/9923583/connor_stephens_resume_flattened.pdf">Resume</a>
 <br>
-<a href="https://github.com/connorsteph/connorsteph/files/9642017/connor_stephens_CV.pdf">CV</a>
+<a href="https://github.com/connorsteph/connorsteph/files/9923593/connor_stephens_CV.pdf">CV</a>
 <br>
 <p align="justify">
 
-Welcome! I'm a master's student at the University of Alberta specializing in statistical machine learning (defending Halloween 2022🧛).
-
+Welcome! I'm a Research Fellow at the University of Alberta, where I recently defended my thesis in statistical machine learning.
+  
 Prior to my master's program I completed an undergraduate degree in physics in which I conducted research in topics such as **ab initio quantum chemistry** and applying computational methods
 to test theoretical models of superconductivity before making the short hop over to computing science for my graduate studies. I've had the opportunity to perform research in assistive robotics and had the incredibly cool experience of implementing a new control scheme on a robotic arm. The focus of my master's research has been studying algorithms and theory for optimal sequential decision making, specifically for problems that fit under the description of <b>pure exploration in multi-armed bandits</b>. Recently I've come full circle and put my physics background to use, working as a research intern at the European Space Agency (ESA) Advanced Concepts Team (ACT), developing **deep learning** models to identify/predict chaos in dynamical systems as well as identifying dynamical systems from sparse data.
   
