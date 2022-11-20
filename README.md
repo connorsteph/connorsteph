@@ -27,7 +27,7 @@ Here are some things that I've worked on:
 <br><br><br><br><br><br>
 
 ## Pure Exploration Problems in Multi-Armed Bandits <a name="MAB_PE"></a>
-Preprint (https://kwangsungjun.github.io/data-public/2022-zhao-revisiting.pdf)
+Preprint (https://arxiv.org/abs/2210.16913)
 
 A presentation I gave in October 2022: [link](https://docs.google.com/presentation/d/1RWuwvM4GKeQneJbCogkx22ewWoFRwuyQPwVDfwrA4Kw/edit?usp=sharing)
 
