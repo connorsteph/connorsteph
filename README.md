@@ -28,6 +28,7 @@ Here are some things that I've worked on:
 
 ## Pure Exploration Problems in Multi-Armed Bandits <a name="MAB_PE"></a>
 Preprint (https://kwangsungjun.github.io/data-public/2022-zhao-revisiting.pdf)
+A presentation I gave in October 2022: [link](https://docs.google.com/presentation/d/1RWuwvM4GKeQneJbCogkx22ewWoFRwuyQPwVDfwrA4Kw/edit?usp=sharing)
 ### Motivation
 Imagine that your friend has just started a small online clothing store which sells elaborately embroidered sweaters. Setting up production for a new sweater design is a time and labour intensive process, involving designing the new embroidery pattern, setting up the sewing equipment to stitch the pattern, and obtaining the material required for the design. Due to the small-scale nature of their business and the limited amount of sweaters that they can produce each day they plan to maximize their return on initial production set-up time and cost by making a large batch of one design at a time.
 
@@ -49,7 +50,7 @@ Pure exploration research is focused on developing and analysing algorithms whic
 <br><br><br><br><br><br><br><br>
 
 ## Deep Learning for Dynamical Systems <a name="DLDS"></a>
-This paper is in progress! You can check out a short presentation on my work (and timeless sense of humour) with the ACT on deep learning for dynamical systems [here](https://docs.google.com/presentation/d/1AdP2ygA-rG8kBoF32PH7BgklXvAzkmm81PfqFgPekKw/edit?usp=sharing), or just check out these cool figures below.
+This paper is in progress! An early project page is available [here](https://www.esa.int/gsp/ACT/projects/poincare_chaos_classification/). You can also check out a short presentation on my work (and timeless sense of humour) with the ACT on deep learning for dynamical systems [here](https://docs.google.com/presentation/d/1AdP2ygA-rG8kBoF32PH7BgklXvAzkmm81PfqFgPekKw/edit?usp=sharing), or just browse the cool figures below.
 
 <table width=90%>
 <tr>
