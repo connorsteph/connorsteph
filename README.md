@@ -54,7 +54,7 @@ Pure exploration research is focused on developing and analysing algorithms whic
 <br><br><br><br><br><br><br><br>
 
 ## Deep Learning for Dynamical Systems <a name="DLDS"></a>
-This paper is in progress! An early project page is available [here](https://www.esa.int/gsp/ACT/projects/poincare_chaos_classification/). You can also check out a short presentation on my work (and timeless sense of humour) with the ACT on deep learning for dynamical systems [here](https://docs.google.com/presentation/d/1AdP2ygA-rG8kBoF32PH7BgklXvAzkmm81PfqFgPekKw/edit?usp=sharing), or just browse the cool figures below.
+This paper is in progress! An early project page is available [here](https://www.esa.int/gsp/ACT/projects/poincare_chaos_classification/). You can also check out a short presentation on my work (featuring my timeless sense of humour) with the ACT on deep learning for dynamical systems [here](https://docs.google.com/presentation/d/1AdP2ygA-rG8kBoF32PH7BgklXvAzkmm81PfqFgPekKw/edit?usp=sharing), or just browse the cool figures below.
 
 <table width=90%>
 <tr>
@@ -82,8 +82,8 @@ This paper is in progress! An early project page is available [here](https://www
 
 <table width=90%>
 <tr>
-<th align="left"> Figure 4: Pixel-wise classification of the chaoticity of trajectories using a deep learning model with a semantic segmentation approach. Left: ground truth, right: predictions. Note the blob-like artifacts in the prediction (right) which imply multiple classifications for the same trajectory.</th>
-<th align="left"> Figure 5: Trajectory chaos classifications obtained from a physics-based deep learning model, making classifications at the trajectory level.</th>
+<th align="left"> Figure 4: Pixel-wise classification of the chaoticity of trajectories using a U-Net style architecture with a standard semantic segmentation approach. Left: ground truth, right: predictions. Note the blob-like artifacts in the prediction (right) which imply multiple classifications for the same trajectory.</th>
+<th align="left"> Figure 5: Trajectory chaos classifications obtained from a physics-based modification of the U-Net architecture which makes classifications at the trajectory level.</th>
 </tr>
 <tr>
 <td width=50%>
