@@ -1,24 +1,17 @@
 <img src="https://user-images.githubusercontent.com/24722905/189741614-caf52a37-98a4-47fb-b757-be81c0512844.jpg" width="40%" align="right" style="vertical-align:middle;margin:2px 20px"/>
 
-**MSc Computing Science, University of Alberta** &mdash; Sept. 2019 - Oct. 2022
+**Machine Learning Engineer, Atomic AI**
 
-**BSc Honors Physics, University of Alberta** &mdash; Sept. 2014 - Apr. 2018
+MSc Computing Science, University of Alberta &mdash; Sept. 2019 - Oct. 2022
 
-<a href="https://github.com/connorsteph/connorsteph/files/11862621/connor_stephens_resume.pdf">Resume</a>
-<br>
+BSc Honors Physics, University of Alberta &mdash; Sept. 2014 - Apr. 2018
+
 <a href="https://github.com/connorsteph/connorsteph/files/9923593/connor_stephens_CV.pdf">CV</a>
 <br>
 <p align="justify">
 
-Welcome! I'm a Research Fellow with Csaba Szepesvári at the University of Alberta, where I recently defended my MSc thesis on statistical machine learning.
-  
-Prior to my master's program I completed an undergraduate degree in physics in which I conducted research in topics such as **ab initio quantum chemistry** and applying computational methods
-to test theoretical models of superconductivity before making the short hop over to computing science for my graduate studies. I've had the opportunity to perform research in assistive robotics and had the incredibly cool experience of designing and implementing a new control scheme on a robotic arm. The focus of my master's research has been studying algorithms and theory for optimal sequential decision making, specifically for problems that fit under the description of <b>pure exploration in multi-armed bandits</b>. Recently I've come full circle and put my physics background to use, working as a research intern at the European Space Agency (ESA) Advanced Concepts Team (ACT), developing **deep learning** models to identify/predict chaos in dynamical systems as well as identifying dynamical systems from sparse data.
-  
-Outside of research you'll usually find me on my road bike, jealously regarding other people's dogs or pretentiously watching films (not to be confused with watching pretentious films).
-</p>
-<br>
-Here are some things that I've worked on:
+
+Some things that I've worked on:
 
 #### [Pure Exploration Problems in Multi-Armed Bandits](#MAB_PE)
 #### [Deep Learning for Dynamical Systems](#DLDS)
